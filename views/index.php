@@ -13,7 +13,7 @@
     <input type="text" name="title">
     <br><br>
     <input type="text" name="text">
-    <input type="submit" name="Отправить">
+    <input type="submit" name="Save">
 </form>
 
 <?php
